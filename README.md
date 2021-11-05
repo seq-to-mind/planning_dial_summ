@@ -18,10 +18,15 @@ See the predictions from the controllable summarization model of SAMSum test set
 ## Citation
 
 ```
-@article{liu2021controllable,
-  title={Controllable Neural Dialogue Summarization with Personal Named Entity Planning},
-  author={Liu, Zhengyuan and Chen, Nancy F},
-  journal={arXiv preprint arXiv:2109.13070},
-  year={2021}
+@inproceedings{liu-chen-2021-controllable,
+    title = "Controllable Neural Dialogue Summarization with Personal Named Entity Planning",
+    author = "Liu, Zhengyuan and Chen, Nancy",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.8",
+    pages = "92--106",
 }
 ```
