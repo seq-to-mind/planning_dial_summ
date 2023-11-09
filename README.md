@@ -1,5 +1,5 @@
 ## Introduction
-One implementation of the paper "Controllable Neural Dialogue Summarization with Personal Named Entity Planning".
+One implementation of the paper "Controllable Neural Dialogue Summarization with Personal Named Entity Planning" in EMNLP2022.
 
 ## Package Requirements
 1. pytorch==1.7.1
